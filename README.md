@@ -1,5 +1,5 @@
-# fleetman
-fleetman is a free, web-based vehicle fleet maintenance management system written in PHP published under GNU General Public License.  
+# FleetMan
+FleetMan is a free, web-based vehicle fleet maintenance management system written in PHP published under GNU General Public License.  
 
 Please extract the fleetman.zip file . you will get Documentation and fleetman.zip file . Now just upload fleetman.zip to your server using cPanel or FTP.
 Extract the fleetman.zip file
